@@ -1,3 +1,29 @@
+# opendataloader-pdf
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向 AI 就绪数据的 PDF 解析器，开源并支持 PDF 无障碍自动化。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <!-- AI-AGENT-SUMMARY
 name: opendataloader-pdf
 category: PDF data extraction, PDF accessibility automation
